@@ -24,11 +24,6 @@ It helps you manage daily tasks with options to add, update, delete, and view ta
 
 Make sure you have Python 3.x installed.
 
-Clone this repository:
-
-git clone https://github.com/your-username/todo-list-console.git
-cd todo-list-console
-
 
 Run the application:
 
@@ -57,9 +52,9 @@ update_task() → Updates an existing task by its number.
 
 delete_task() → Deletes a task by its number
 
-🎥 Demo Video
+🎥 Demo Video - 
 
-📌 Demo video will be added here soon...
+📌 https://www.linkedin.com/posts/activity-7379933957578113024-2w6B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcipVsBgMRfGdz4JFGgHmoJp9TBitRqPi8
 
 🙏 Acknowledgement
 
