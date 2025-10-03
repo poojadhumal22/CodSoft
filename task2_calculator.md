@@ -44,7 +44,7 @@ Addition is - 15
 
 🎥 Demo Video
 
-📌 Demo video will be added here soon...
+📌 https://www.linkedin.com/posts/activity-7379929822266908672-XAfX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcipVsBgMRfGdz4JFGgHmoJp9TBitRqPi8
 
 🙏 Acknowledgement
 
