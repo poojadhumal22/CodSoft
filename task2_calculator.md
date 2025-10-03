@@ -24,11 +24,6 @@ This program allows you to perform basic arithmetic operations: Addition, Subtra
 
 Make sure you have Python 3.x installed.
 
-Clone this repository:
-
-git clone https://github.com/your-username/console-calculator.git
-cd console-calculator
-
 
 Run the program:
 
